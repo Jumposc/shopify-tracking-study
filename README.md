@@ -46,6 +46,8 @@ We didn't click anything, add to cart, touch cookie banners or send any events.
 
 `share_pct` columns are percentages rounded to one decimal place. The write-up rounds to whole numbers.
 
+The Zenodo copy lists these files without their folders. The [GitHub repository](https://github.com/Jumposc/shopify-tracking-study) keeps them in `data/` and `scripts/`.
+
 ## Limits
 
 - **One visit per store.** Tags can behave differently between visits. One store that showed a duplicate in the scan didn't show it when we checked it again.
@@ -64,7 +66,7 @@ Store names, domains, pixel IDs and store-level rows aren't published. This is a
 
 ## Citing this data
 
-Please link to the [write-up](https://tools.solvir.net/en/guides/shopify-tracking-study) and mention the sample and the single visit. `CITATION.cff` has the details.
+Please link to the [write-up](https://tools.solvir.net/en/guides/shopify-tracking-study) or use the DOI, [10.5281/zenodo.23993913](https://doi.org/10.5281/zenodo.23993913), and mention the sample and the single visit. `CITATION.cff` has the details.
 
 ## License
 
