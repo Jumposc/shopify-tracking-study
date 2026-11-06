@@ -1,0 +1,6 @@
+requests_seen_to,stores_with_events,stores_with_duplicate,duplicate_share_pct,stores_checked_for_product_view,stores_missing_product_view,missing_share_pct
+triplewhale,57,15,26.3,50,8,16.0
+elevar,53,15,28.3,43,5,11.6
+northbeam,28,10,35.7,20,2,10.0
+any_of_the_four,109,29,26.6,90,12,13.3
+none_of_the_four,86,28,32.6,76,13,17.1

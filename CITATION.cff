@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it and mention the sample and the single visit per store."
+type: dataset
+title: "Shopify tracking study: aggregated data"
+abstract: "Totals from a scan of the browser tracking on 245 Shopify stores on October 25, 2026: duplicate and missing page view and product view events sent to GA4, Meta and TikTok. One visit per store, not a random sample."
+authors:
+  - family-names: "Chen"
+    given-names: "Xuanzhao"
+date-released: 2026-11-06
+url: "https://tools.solvir.net/en/guides/shopify-tracking-study"
+repository-code: "https://github.com/Jumposc/shopify-tracking-study"
+license: "CC-BY-4.0"
+keywords:
+  - shopify
+  - ecommerce
+  - ga4
+  - meta-pixel
+  - tiktok-pixel
+  - conversion-tracking
+  - web-analytics

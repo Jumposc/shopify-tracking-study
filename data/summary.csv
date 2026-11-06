@@ -1,0 +1,6 @@
+metric,stores,out_of,share_pct
+product_page_loaded,211,245,86.1
+visible_events,195,245,79.6
+any_duplicate_of_stores_with_visible_events,57,195,29.2
+any_duplicate_of_all_loaded_stores,57,245,23.3
+missing_product_view,25,166,15.1

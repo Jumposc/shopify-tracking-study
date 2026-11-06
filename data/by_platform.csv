@@ -1,0 +1,4 @@
+platform,stores_with_events,stores_with_duplicate,duplicate_share_pct,stores_checked_for_product_view,stores_missing_product_view,missing_share_pct
+ga4,183,51,27.9,160,10,6.3
+tiktok,63,8,12.7,46,15,32.6
+meta,51,3,5.9,25,6,24.0
